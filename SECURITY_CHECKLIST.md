@@ -1,0 +1,12 @@
+# Security Checklist
+- [x] Helmet security headers
+- [x] API rate limiting
+- [x] JSON body size limit
+- [x] Client-side validation
+- [x] Server-side validation
+- [x] Parameterized SQLite queries
+- [x] HTML escaping before rendering
+- [x] X-Powered-By disabled
+- [x] Consistent API errors
+- [ ] Production deployment should use HTTPS
+- [ ] Add authentication/authorization if applicant management is exposed
